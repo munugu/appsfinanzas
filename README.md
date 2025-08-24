@@ -1,2 +1,2 @@
 # appsfinanzas
-app DAMUN, CREADA PARA LA GESTION DE LAS finanzas 
+Aplicación DAMUN, creada para la gestión de las finanzas
